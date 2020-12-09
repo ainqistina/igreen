@@ -37,7 +37,7 @@
     <table align="center" width="100%" cellspacing="0" class="display" id="cariAwam">
       <thead>
         <tr>
-          <th class="text-center">BIL</th>
+          <th class="text-center">BILANGAN</th>
           <th class="text-center">TARIKH SERAHAN</th>
           <th class="text-center">JUMLAH SERAHAN</th>
           <th class="text-center">TARIKH TERIMA</th>
